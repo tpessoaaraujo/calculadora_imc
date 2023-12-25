@@ -172,22 +172,3 @@ main {
 .attention {
     color: #dc2626;
 }
-
-footer {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;    
-    margin-top: 3rem;
-    color: #f8fafc;
-}
-
-footer a {
-    text-decoration: none;
-    color: white;
-    transition: .2s;
-}
-
-footer a:hover {
-    color: #e20074;
-}
